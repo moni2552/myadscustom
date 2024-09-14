@@ -1,0 +1,51 @@
+{
+  "ad_type": "app_promotion",
+  "ad_url": "org.fossify.haider.smart.musicplayer",
+ "ad_image_url": "https://www.express.pk",
+ "skip_ad_timer": "5",
+  "activity_background_color": "#000000",
+   "ad_background_color": "#000000",
+    "ad_image_button": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-8Jt5qfifdXNJ9mburD5A4QwC9s6R7YfrnTrRj1ZCoGNstrhvJeKZFFlkVjLOkVXDywQAE88B_PVhn5uOp2RY_EbJwmPhABHy4IvwXXaxI7ktT6nkLBn4yMLTRWJGduszcx4oiOuB9-ZVMq0CdxiQB532bzmP6ztfk0csDH0cI4qSyzjySEBXCjLjT0Nf/s320/logo.webp",
+  "ad_button_background_color": "#000000",
+    "ad_label_text": "Update the App",
+  "ad_label_background_color": "#FFFFFF",
+  "ad_label_text_color": "#000000",
+  
+  
+  
+"progress_bar_color": "#000000",
+"loading_message_text_color":"#FFFFFF",
+"loading_message_text":"Please wait",
+
+ "load_timeout_sec": 5,
+  "close_icon_delay_sec": 3,
+ "update_url":"org.fossify.haider.smart.musicplayer",
+ "update_versioncode":"3",
+ 
+ 
+ 
+
+  
+  
+  
+  
+  
+  "ad_description": "Discover a new level of music enjoyment with Smart Music Player",
+  "ad_title": "",
+  "ad_continue_button_text": "Download App",
+ 
+  "ad_title_color": "#ffffff",
+  "ad_description_color": "#ffffff",
+
+ 
+  "ad_button_text_color": "#9A610E",
+  
+  
+  "haider_the_messages_secure_ad_url": "https://www.express.pk/"
+  
+  
+  
+  
+}
+
+
